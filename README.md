@@ -10,6 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=seroxki&style=for-the-badge&color=333333&label=Views"/>
 </p>
 
-<p align="center">
-  <b>I have been working with FiveM for over 5 years, whether it be scripting, texturing, or modelling. I have done it all.</b> <b>Lua / JS / HTML / C#</b>
-</p>
+I have been working with FiveM for over 5 years, whether it be scripting, texturing, or modelling. I have done it all.</b> <b>Lua / JS / HTML / C#</b>
+
+
+
