@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  </b> I have been working with FiveM for over 5 years, whether it be scripting, texturing, or modelling. I have done it all.</b> 
+  </b> I have been working with FiveM for over 5 years, whether it be making scripts, designing EUP and Liveries, or filming cinematic trailers. I have done it all.</b> 
 </p>
 
 
