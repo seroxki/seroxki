@@ -1,4 +1,4 @@
-<t align="center">Sero XKI</t>
+<h2  align="center">Sero XKI</h2>
 
 <p align="center">
   <b>FiveM Developer</b> <b>Lua / JS / HTML / C#</b>
