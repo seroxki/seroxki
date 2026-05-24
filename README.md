@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1 align="center">Sero XKI</h1>
 
-<!--
-**seroxki/seroxki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>FiveM Developer</b> <b>Lua / JS / HTML / C#</b>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="[https://discord.gg/DBqCZjZ8VN](https://discord.gg/PQ9eYAykah)"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://youtube.com/@SeroXKI"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://crollstudios.tebex.io"><img src="https://img.shields.io/badge/Tebex_Store-4AB95A?style=for-the-badge&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=seroxki&style=for-the-badge&color=333333&label=Views"/>
+</p>
