@@ -12,7 +12,7 @@
 
 <p align="center">
   </b> <b>Lua / JS / HTML / C#</b>
-  I have been working with FiveM for over 5 years, whether it be scripting, texturing, or modelling. I have done it all.
+  </b> I have been working with FiveM for over 5 years, whether it be scripting, texturing, or modelling. I have done it all.</b> 
 </p>
 
 
